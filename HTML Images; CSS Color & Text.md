@@ -136,3 +136,101 @@ title="Zucchini Cake No Frosting" />
 </body>
 </html>
 
+# Color
+
+# Color can really bring your pages to life.
+In this chapter we will look at:
+How to specify colors, as there are three common ways in
+which you can indicate your choice of colors (plus extra
+ways made available in CSS3)
+●● Color terminology, as there are some terms that are very
+helpful to understand when it comes to picking colors
+●● Contrast, and ensuring that your text is readable
+●● Background colors for behind either your entire page or
+parts of a page
+What you will learn about colors in this chapter will then be
+used in subsequent chapters when it comes to looking at
+colors of text and boxes in CSS.
+
+# Foreground Color
+The color property allows you to specify the color of text inside
+an element. You can specify any color in CSS in one of three ways
+
+# Background Color
+CSS treats each HTML element as if it appears in a box, and the
+background-color property sets the color of the background
+for that box.You can specify your choice of
+background color in the same three ways you can specify
+foreground colors: RGB values,hex codes, and color names
+(covered on the next page).
+
+# Understanding Color
+
+Every color on a computer screen is created by mixing amounts of red,green, and blue. To find the color you want, you can use a color picker
+
+# Summary
+
+Color not only brings your s XX ite to life, but also helps convey the mood and evokes reactions.
+1. There are three ways to specify colors in CSS:RGB values, hex codes, and color names.
+2. Color pickers can help you find the color you want.
+3. It is important to ensure that there is enough contrast between any text and the background color (otherwise
+people will not be able to read your content).
+4. CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
+5. CSS3 also allows you to specify colors as HSL values,with an optional opacity value. It is known as HSLA.
+
+# Text
+
+# Typeface Terminology
+
+Serif 
+Sans-Serif
+Monospace
+
+# Choosing a Typeface for your Website
+
+Techniques That Offer a Wider Choice ofTypefaces
+There are several ways to use fonts other than those listed on the
+previous page. However, typefaces are subject to copyright, so the
+techniques you can choose from are limited by their respective licenses.
+
+# Specifying Typefaces
+The font-family property allows you to specify the typeface that should be used for
+any text inside the element(s) to which a CSS rule applies.The value of this property is the
+name of the typeface you wantto use.The people who are visitingyour site need the typeface you
+have specified installed on theircomputer in order for it to be displayed.
+
+# Size of Type
+The font-size property enables you to specify a size for thefont. There are several ways to
+specify the size of a font. The most common are
+
+# Type Scales
+You may have noticed that programs such as Word, Photoshop and InDesign offer the same
+sizes of text
+
+# More Font Choice
+
+font-face allows you to use a font, even if it is not installed on the computer of the person
+browsing, by allowing you to specify a path to a copy of the font, which will be downloaded if
+it is not on the user's machine.Because this technique allows
+a version of the font to be downloaded to the user'scomputer, it is important that the
+license for the font permits it to be used in this way.
+
+# Bold
+The font-weight property allows you to create bold text.
+There are two values that this property commonly takes
+
+# Summary
+There are properties to control t XX he choice of font, size,
+weight, style, and spacing.
+1.There is a limited choice of fonts that you can assume
+most people will have installed.
+2. If you want to use a wider range of typefaces there are
+several options, but you need to have the right license
+to use them.
+3. You can control the space between lines of text,
+individual letters, and words. Text can also be aligned
+to the left, right, center, or justified. It can also be
+indented.
+4. You can use pseudo-classes to change the style of an
+element when a user hovers over or clicks on text, or
+when they have visited a link.

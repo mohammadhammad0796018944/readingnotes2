@@ -6,7 +6,7 @@
 |    Title       |                                 Link                                                          | 
 
 
-|class-02	     | [class-02](https://github.com/mohammadhammad0796018944/readingnotes2/class-02)                |
+|class	     | [class](https://github.com/mohammadhammad0796018944/readingnotes2/class)                |
 
 
 |MarkdownHTML Lists, CSS Boxes, JS Control Flow	     | [HTML Lists, CSS Boxes, JS Control Flow](https://github.com/mohammadhammad0796018944/readingnotes2/MarkdownHTML Lists, CSS Boxes, JS Control Flow)                           |
@@ -22,6 +22,6 @@
 
 |CAAL            | [CCAAL](L)                        |
 
-
+|HTML Images; CSS Color & Text | [HTML Images; CSS Color & Text]( )
 
 

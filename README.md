@@ -13,6 +13,6 @@
 
 |Learning Journal:04| [LearningJournal:04](https://github.com/mohammadhammad0796018944/readingnotes2/LearningJournal:04)                           |
 
-|HTML Images; CSS Color & Text | [HTMLImagesCSSColor&Text](https://github.com/mohammadhammad0796018944/readingnotes2/HTML Images; CSS Color & Text)
+|HTML Images; CSS Color & Text | [HTMLImagesCSSColor&Text](https://github.com/mohammadhammad0796018944/readingnotes2/HTML%20Images;%20CSS%20Color%20&%20Text)
 
 

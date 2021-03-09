@@ -6,7 +6,7 @@
 |    Title       |           Link     | 
 
 
-|class|[class](https://github.com/mohammadhammad0796018944/readingnotes2/class) |
+|class|[class](https://mohammadhammad0796018944.github.io/readingnotes2/class) |
 
 
 |MarkdownHTML Lists, CSS Boxes, JS Control Flow	 |[HTMLListsCSSBoxesJSControlFlow](https://github.com/mohammadhammad0796018944/readingnotes2/HTMLListsCSSBoxesJSControlFlow)                           |
